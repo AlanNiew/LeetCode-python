@@ -17,23 +17,28 @@
 ## 文件详解
 
 ### Lt_1437.py
+
 实现了一个函数，检查数组中所有1之间是否至少有k个位置的间隔。
 
 ### Lt_2785.py
+
 实现了一个函数，将字符串中的元音字母按照ASCII值排序。
 
 ### Lt_3487.py
+
 包含一个最大数组和问题的解决方案（需要进一步完善）。
 
 ### Lt_717.py
+
 解决1比特与2比特字符的问题，判断最后一个字符是否为1比特字符。
 
 ## 使用方法
 
 运行各个解决方案：
+
 ```bash
-python daily/Lt_1437.py
-python daily/Lt_2785.py
-python daily/Lt_3487.py
-python daily/Lt_717.py
+python src/Lt_1437.py
+python src/Lt_2785.py
+python src/Lt_3487.py
+python src/Lt_717.py
 ```
